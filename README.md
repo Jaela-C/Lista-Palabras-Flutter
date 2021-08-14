@@ -1,15 +1,10 @@
-# Números primos
+# Lista de palabras
 
-El repositorio contiene una aplicación desarrollada con un template de Flutter que muestra una secuencia de números primos
-
-## Página principal
-![Página principal](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Principal.PNG)
+El repositorio contiene una aplicación desarrollada con un template de Flutter que muestra una lista de palabras en español  
 ## Funcionamiento
 
-El botón debe ser presionado hasta que en la pantalla se muestre el siguiente número primo  
+El usuario puede hacer scroll, el límite de palabras es 5000 pero se pueden agregar más
 
-![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next1.PNG)
+![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Lista-Palabras-Flutter/master/images/ListWords1.PNG)
 
-![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next2.PNG)
-
-![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next3.PNG)
+![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Lista-Palabras-Flutter/master/images/ListWords2.PNG)
