@@ -1,16 +1,15 @@
-# flutter_application_1
+# Números primos
 
-A new Flutter project.
+El repositorio contiene una aplicación desarrollada con un template de Flutter que muestra una secuencia de números primos
 
-## Getting Started
+## Página principal
+![Página principal](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Principal.PNG)
+## Funcionamiento
 
-This project is a starting point for a Flutter application.
+El botón debe ser presionado hasta que en la pantalla se muestre el siguiente número primo  
 
-A few resources to get you started if this is your first Flutter project:
+![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next1.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next2.PNG)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next3.PNG)
